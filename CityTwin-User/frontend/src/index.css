@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+:root {
+  --bg-main: #E8F5F6;
+  --teal-accent: #79C9C0;
+  --mint-primary: #A8DCD3;
+  --lavender: #C7BCE8;
+  --soft-pink: #E8B8D5;
+  --card-bg: #FFFFFF;
+  --card-glass: rgba(255, 255, 255, 0.92);
+  --text-primary: #252733;
+  --text-secondary: #777B86;
+  --text-muted: #A0A5B1;
+  --map-bg: #E8EEEE;
+  --shadow-sm: 0 2px 8px rgba(37, 39, 51, 0.04);
+  --shadow-md: 0 8px 24px rgba(37, 39, 51, 0.08);
+  --radius-full: 9999px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  background: var(--bg-main);
+  color: var(--text-primary);
+  overflow: hidden;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+/* Glassmorphism */
+.glass-panel {
+  background: var(--card-glass);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  box-shadow: var(--shadow-md);
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.94);
+  backdrop-filter: blur(14px);
+  border: 1px solid rgba(255, 255, 255, 0.85);
+  border-radius: 20px;
+  box-shadow: var(--shadow-sm);
+}
+
+/* Map */
+.leaflet-container {
+  width: 100% !important;
+  height: 100% !important;
+  background-color: var(--map-bg) !important;
+  font-family: 'Inter', sans-serif !important;
+}
+
+.leaflet-tile {
+  filter: contrast(96%) brightness(102%) saturate(88%);
+}
+
+.custom-marker-icon,
+.custom-user-icon {
+  background: none !important;
+  border: none !important;
+}
+
+/* Animations */
+@keyframes slideUp {
+  from { transform: translateY(100%); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: scale(0.98); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes pulseGlow {
+  0% { box-shadow: 0 0 0 0 rgba(121, 201, 192, 0.5); }
+  70% { box-shadow: 0 0 0 14px rgba(121, 201, 192, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(121, 201, 192, 0); }
+}
+
+.animate-slide-up { animation: slideUp 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+.animate-fade-in { animation: fadeIn 0.2s ease-out forwards; }
+.pulse-dot { animation: pulseGlow 2s infinite; }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #C7D9D6; border-radius: 10px; }
+
+/* Buttons */
+.btn-primary {
+  background: var(--teal-accent);
+  color: #FFFFFF;
+  border: none;
+  border-radius: var(--radius-full);
+  padding: 12px 20px;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  box-shadow: 0 4px 14px rgba(121, 201, 192, 0.35);
+}
+
+.btn-primary:hover {
+  background: #68BBAF;
+  transform: translateY(-1px);
+}
+
+.btn-secondary {
+  background: rgba(255, 255, 255, 0.95);
+  color: var(--text-primary);
+  border: 1px solid rgba(168, 220, 211, 0.6);
+  border-radius: var(--radius-full);
+  padding: 12px 20px;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+
+.btn-secondary:hover {
+  background: #FFFFFF;
+  border-color: var(--teal-accent);
+}
+
+.btn-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: var(--radius-full);
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.04);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--shadow-sm);
+  cursor: pointer;
+  color: var(--text-primary);
+  transition: all 0.15s ease;
+}
+
+.btn-icon:hover {
+  background: var(--bg-main);
+  transform: scale(1.04);
+}
+
+/* Mobile specific adjustments */
+@media (max-width: 768px) {
+  .btn-primary { padding: 10px 16px; font-size: 13px; }
+  .btn-secondary { padding: 10px 16px; font-size: 13px; }
+  .btn-icon { width: 36px; height: 36px; }
+}
