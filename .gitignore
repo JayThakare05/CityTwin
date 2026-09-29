@@ -7,3 +7,4 @@
 
 # Allow example environment files
 !.env.example
+**/*ai-service/*

@@ -1,0 +1,2451 @@
+{
+  "type": "FeatureCollection",
+  "attribution": "© OpenStreetMap contributors",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.870684,
+              19.2769714
+            ],
+            [
+              72.8707494,
+              19.2769565
+            ],
+            [
+              72.870726,
+              19.2768648
+            ],
+            [
+              72.8709378,
+              19.2768167
+            ],
+            [
+              72.870969,
+              19.2769392
+            ],
+            [
+              72.871021,
+              19.2769274
+            ],
+            [
+              72.8711279,
+              19.2773469
+            ],
+            [
+              72.8710429,
+              19.2773662
+            ],
+            [
+              72.8709409,
+              19.2769658
+            ],
+            [
+              72.870821,
+              19.276993
+            ],
+            [
+              72.8709231,
+              19.2773934
+            ],
+            [
+              72.8708641,
+              19.2774068
+            ],
+            [
+              72.8708445,
+              19.2773297
+            ],
+            [
+              72.870779,
+              19.2773446
+            ],
+            [
+              72.870684,
+              19.2769714
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Ghodbunder Road",
+        "slug": "ghodbunder-road",
+        "center_latitude": 19.2771614,
+        "center_longitude": 72.8707981,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.1327979,
+              19.2568192
+            ],
+            [
+              73.1329445,
+              19.2568202
+            ],
+            [
+              73.1329586,
+              19.2569772
+            ],
+            [
+              73.1328039,
+              19.2569876
+            ],
+            [
+              73.1327979,
+              19.2568192
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Thane West",
+        "slug": "thane-west",
+        "center_latitude": 19.2568987,
+        "center_longitude": 73.1328761,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9873808,
+              19.2326014
+            ],
+            [
+              72.9874625,
+              19.2326014
+            ],
+            [
+              72.9874625,
+              19.2328482
+            ],
+            [
+              72.9873808,
+              19.2328482
+            ],
+            [
+              72.9873808,
+              19.2326014
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Kolshet Road",
+        "slug": "kolshet-road",
+        "center_latitude": 19.2327248,
+        "center_longitude": 72.9874217,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9584852,
+              19.1930251
+            ],
+            [
+              72.9984852,
+              19.1930251
+            ],
+            [
+              72.9984852,
+              19.2330251
+            ],
+            [
+              72.9584852,
+              19.2330251
+            ],
+            [
+              72.9584852,
+              19.1930251
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Majiwada",
+        "slug": "majiwada",
+        "center_latitude": 19.2130251,
+        "center_longitude": 72.9784852,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.0205728,
+              19.024737
+            ],
+            [
+              73.0206728,
+              19.024737
+            ],
+            [
+              73.0206728,
+              19.024837
+            ],
+            [
+              73.0205728,
+              19.024837
+            ],
+            [
+              73.0205728,
+              19.024737
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Thane East",
+        "slug": "thane-east",
+        "center_latitude": 19.024787,
+        "center_longitude": 73.0206228,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.0466604,
+              19.1430447
+            ],
+            [
+              73.0466617,
+              19.1430211
+            ],
+            [
+              73.0466679,
+              19.1429982
+            ],
+            [
+              73.0466787,
+              19.1429769
+            ],
+            [
+              73.0466937,
+              19.142958
+            ],
+            [
+              73.0467124,
+              19.1429422
+            ],
+            [
+              73.0467339,
+              19.1429301
+            ],
+            [
+              73.0467575,
+              19.1429223
+            ],
+            [
+              73.0467823,
+              19.1429189
+            ],
+            [
+              73.0468073,
+              19.1429202
+            ],
+            [
+              73.0468315,
+              19.1429261
+            ],
+            [
+              73.0468541,
+              19.1429363
+            ],
+            [
+              73.0468741,
+              19.1429504
+            ],
+            [
+              73.0468908,
+              19.142968
+            ],
+            [
+              73.0469036,
+              19.1429884
+            ],
+            [
+              73.0469119,
+              19.1430107
+            ],
+            [
+              73.0469134,
+              19.1430207
+            ],
+            [
+              73.0469154,
+              19.1430341
+            ],
+            [
+              73.0469141,
+              19.1430577
+            ],
+            [
+              73.0469079,
+              19.1430806
+            ],
+            [
+              73.0468971,
+              19.1431019
+            ],
+            [
+              73.0468821,
+              19.1431208
+            ],
+            [
+              73.0468634,
+              19.1431366
+            ],
+            [
+              73.0468419,
+              19.1431487
+            ],
+            [
+              73.0468183,
+              19.1431565
+            ],
+            [
+              73.0467935,
+              19.1431599
+            ],
+            [
+              73.0467685,
+              19.1431586
+            ],
+            [
+              73.0467443,
+              19.1431527
+            ],
+            [
+              73.0467217,
+              19.1431425
+            ],
+            [
+              73.0467017,
+              19.1431284
+            ],
+            [
+              73.046685,
+              19.1431108
+            ],
+            [
+              73.0466722,
+              19.1430904
+            ],
+            [
+              73.0466639,
+              19.1430681
+            ],
+            [
+              73.0466604,
+              19.1430447
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Shilphata",
+        "slug": "shilphata",
+        "center_latitude": 19.1430394,
+        "center_longitude": 73.0467879,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9778614,
+              19.2575437
+            ],
+            [
+              72.9794407,
+              19.2564749
+            ],
+            [
+              72.9795465,
+              19.2561872
+            ],
+            [
+              72.9791522,
+              19.2560404
+            ],
+            [
+              72.9788587,
+              19.2558449
+            ],
+            [
+              72.9786797,
+              19.2557929
+            ],
+            [
+              72.9786726,
+              19.254712
+            ],
+            [
+              72.9786723,
+              19.251566
+            ],
+            [
+              72.9787058,
+              19.2508615
+            ],
+            [
+              72.9795692,
+              19.2504458
+            ],
+            [
+              72.9810657,
+              19.2496618
+            ],
+            [
+              72.9820157,
+              19.2492875
+            ],
+            [
+              72.982572,
+              19.2493478
+            ],
+            [
+              72.9830441,
+              19.2500036
+            ],
+            [
+              72.9832345,
+              19.2503404
+            ],
+            [
+              72.9831594,
+              19.2505481
+            ],
+            [
+              72.9833485,
+              19.2509836
+            ],
+            [
+              72.9833364,
+              19.2517812
+            ],
+            [
+              72.983445,
+              19.251885
+            ],
+            [
+              72.9835135,
+              19.2520674
+            ],
+            [
+              72.9836288,
+              19.2521446
+            ],
+            [
+              72.9837977,
+              19.2521953
+            ],
+            [
+              72.9839185,
+              19.2521357
+            ],
+            [
+              72.9841634,
+              19.2522749
+            ],
+            [
+              72.9841787,
+              19.2523763
+            ],
+            [
+              72.984188,
+              19.2524155
+            ],
+            [
+              72.9842967,
+              19.2524675
+            ],
+            [
+              72.9844147,
+              19.2525143
+            ],
+            [
+              72.9844804,
+              19.2525536
+            ],
+            [
+              72.9845864,
+              19.2526675
+            ],
+            [
+              72.9847741,
+              19.2528321
+            ],
+            [
+              72.9852703,
+              19.2532296
+            ],
+            [
+              72.9854903,
+              19.2532626
+            ],
+            [
+              72.9857182,
+              19.253336
+            ],
+            [
+              72.9858229,
+              19.253412
+            ],
+            [
+              72.9859275,
+              19.2535259
+            ],
+            [
+              72.9856659,
+              19.253691
+            ],
+            [
+              72.9858755,
+              19.2539527
+            ],
+            [
+              72.9859757,
+              19.2540779
+            ],
+            [
+              72.9864103,
+              19.2547464
+            ],
+            [
+              72.9865015,
+              19.2550199
+            ],
+            [
+              72.9874612,
+              19.2547075
+            ],
+            [
+              72.9883414,
+              19.254825
+            ],
+            [
+              72.9900515,
+              19.2557178
+            ],
+            [
+              72.9884574,
+              19.2581236
+            ],
+            [
+              72.9858869,
+              19.2614546
+            ],
+            [
+              72.9839934,
+              19.2641777
+            ],
+            [
+              72.9827647,
+              19.2637463
+            ],
+            [
+              72.9824137,
+              19.2635459
+            ],
+            [
+              72.9820899,
+              19.2635115
+            ],
+            [
+              72.9816333,
+              19.2633924
+            ],
+            [
+              72.9816432,
+              19.2626797
+            ],
+            [
+              72.9816495,
+              19.2624338
+            ],
+            [
+              72.9821348,
+              19.2626365
+            ],
+            [
+              72.9820152,
+              19.2616181
+            ],
+            [
+              72.9819751,
+              19.2613693
+            ],
+            [
+              72.9815275,
+              19.261557
+            ],
+            [
+              72.9810242,
+              19.2617657
+            ],
+            [
+              72.9802021,
+              19.261872
+            ],
+            [
+              72.9796777,
+              19.2613832
+            ],
+            [
+              72.9797643,
+              19.2608964
+            ],
+            [
+              72.97981,
+              19.2606398
+            ],
+            [
+              72.9798414,
+              19.2604313
+            ],
+            [
+              72.9797486,
+              19.2601248
+            ],
+            [
+              72.9797653,
+              19.260017
+            ],
+            [
+              72.9798469,
+              19.2596575
+            ],
+            [
+              72.9799926,
+              19.2595954
+            ],
+            [
+              72.9798768,
+              19.2593327
+            ],
+            [
+              72.9794581,
+              19.2592216
+            ],
+            [
+              72.9794191,
+              19.2592373
+            ],
+            [
+              72.9795398,
+              19.2594258
+            ],
+            [
+              72.9794942,
+              19.2597474
+            ],
+            [
+              72.9794781,
+              19.2599778
+            ],
+            [
+              72.9792528,
+              19.2599753
+            ],
+            [
+              72.9792922,
+              19.2592802
+            ],
+            [
+              72.9790564,
+              19.2593837
+            ],
+            [
+              72.9787347,
+              19.2593859
+            ],
+            [
+              72.9787064,
+              19.2593861
+            ],
+            [
+              72.9785357,
+              19.2591001
+            ],
+            [
+              72.9786104,
+              19.2589873
+            ],
+            [
+              72.9785565,
+              19.2589512
+            ],
+            [
+              72.9788359,
+              19.2587489
+            ],
+            [
+              72.9789695,
+              19.2586845
+            ],
+            [
+              72.9778614,
+              19.2575437
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Hiranandani Estate",
+        "slug": "hiranandani-estate",
+        "center_latitude": 19.2549288,
+        "center_longitude": 72.9820704,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9872793,
+              19.2203398
+            ],
+            [
+              72.987312,
+              19.2202793
+            ],
+            [
+              72.9873338,
+              19.220239
+            ],
+            [
+              72.9873668,
+              19.2201781
+            ],
+            [
+              72.9885902,
+              19.2207681
+            ],
+            [
+              72.9885538,
+              19.2208355
+            ],
+            [
+              72.9885341,
+              19.2208718
+            ],
+            [
+              72.9885029,
+              19.2209296
+            ],
+            [
+              72.9872793,
+              19.2203398
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Balkum",
+        "slug": "balkum",
+        "center_latitude": 19.220554,
+        "center_longitude": 72.9879349,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9538156,
+              19.2114156
+            ],
+            [
+              72.9938156,
+              19.2114156
+            ],
+            [
+              72.9938156,
+              19.2514156
+            ],
+            [
+              72.9538156,
+              19.2514156
+            ],
+            [
+              72.9538156,
+              19.2114156
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Manpada",
+        "slug": "manpada",
+        "center_latitude": 19.2314156,
+        "center_longitude": 72.9738156,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9913331,
+              19.1902243
+            ],
+            [
+              73.0013331,
+              19.1902243
+            ],
+            [
+              73.0013331,
+              19.2002243
+            ],
+            [
+              72.9913331,
+              19.2002243
+            ],
+            [
+              72.9913331,
+              19.1902243
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Kalwa",
+        "slug": "kalwa",
+        "center_latitude": 19.1952243,
+        "center_longitude": 72.9963331,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9688955,
+              19.2704558
+            ],
+            [
+              72.9689733,
+              19.2704376
+            ],
+            [
+              72.9689421,
+              19.2703189
+            ],
+            [
+              72.9690666,
+              19.2702897
+            ],
+            [
+              72.969094,
+              19.270394
+            ],
+            [
+              72.9691851,
+              19.2703727
+            ],
+            [
+              72.9692222,
+              19.2705136
+            ],
+            [
+              72.9689288,
+              19.2705823
+            ],
+            [
+              72.9688955,
+              19.2704558
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Kasarvadavali",
+        "slug": "kasarvadavali",
+        "center_latitude": 19.2704158,
+        "center_longitude": 72.969082,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9645436,
+              19.2055786
+            ],
+            [
+              73.0045436,
+              19.2055786
+            ],
+            [
+              73.0045436,
+              19.2455786
+            ],
+            [
+              72.9645436,
+              19.2455786
+            ],
+            [
+              72.9645436,
+              19.2055786
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Dhokali",
+        "slug": "dhokali",
+        "center_latitude": 19.2255786,
+        "center_longitude": 72.9845436,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.0364169,
+              19.1837564
+            ],
+            [
+              73.0464169,
+              19.1837564
+            ],
+            [
+              73.0464169,
+              19.1937564
+            ],
+            [
+              73.0364169,
+              19.1937564
+            ],
+            [
+              73.0364169,
+              19.1837564
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Diva",
+        "slug": "diva",
+        "center_latitude": 19.1887564,
+        "center_longitude": 73.0414169,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9660694,
+              19.2393501
+            ],
+            [
+              72.9860694,
+              19.2393501
+            ],
+            [
+              72.9860694,
+              19.2593501
+            ],
+            [
+              72.9660694,
+              19.2593501
+            ],
+            [
+              72.9660694,
+              19.2393501
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Patlipada",
+        "slug": "patlipada",
+        "center_latitude": 19.2493501,
+        "center_longitude": 72.9760694,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9427101,
+              19.1955371
+            ],
+            [
+              72.9827101,
+              19.1955371
+            ],
+            [
+              72.9827101,
+              19.2355371
+            ],
+            [
+              72.9427101,
+              19.2355371
+            ],
+            [
+              72.9427101,
+              19.1955371
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Vartak Nagar",
+        "slug": "vartak-nagar",
+        "center_latitude": 19.2155371,
+        "center_longitude": 72.9627101,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9463424,
+              19.2024897
+            ],
+            [
+              72.9863424,
+              19.2024897
+            ],
+            [
+              72.9863424,
+              19.2424897
+            ],
+            [
+              72.9463424,
+              19.2424897
+            ],
+            [
+              72.9463424,
+              19.2024897
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Vasant Vihar",
+        "slug": "vasant-vihar",
+        "center_latitude": 19.2224897,
+        "center_longitude": 72.9663424,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9630236,
+              19.2045692
+            ],
+            [
+              72.9688267,
+              19.2045692
+            ],
+            [
+              72.9688267,
+              19.2090973
+            ],
+            [
+              72.9630236,
+              19.2090973
+            ],
+            [
+              72.9630236,
+              19.2045692
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Pokhran Road No. 1",
+        "slug": "pokhran-road-no-1",
+        "center_latitude": 19.2066597,
+        "center_longitude": 72.965802,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.0180752,
+              19.1849425
+            ],
+            [
+              73.0280752,
+              19.1849425
+            ],
+            [
+              73.0280752,
+              19.1949425
+            ],
+            [
+              73.0180752,
+              19.1949425
+            ],
+            [
+              73.0180752,
+              19.1849425
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Mumbra",
+        "slug": "mumbra",
+        "center_latitude": 19.1899425,
+        "center_longitude": 73.0230752,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9652791,
+              19.1875702
+            ],
+            [
+              72.9852791,
+              19.1875702
+            ],
+            [
+              72.9852791,
+              19.2075702
+            ],
+            [
+              72.9652791,
+              19.2075702
+            ],
+            [
+              72.9652791,
+              19.1875702
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Charai",
+        "slug": "charai",
+        "center_latitude": 19.1975702,
+        "center_longitude": 72.9752791,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9647705,
+              19.2459668
+            ],
+            [
+              73.0047705,
+              19.2459668
+            ],
+            [
+              73.0047705,
+              19.2859668
+            ],
+            [
+              72.9647705,
+              19.2859668
+            ],
+            [
+              72.9647705,
+              19.2459668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Waghbil",
+        "slug": "waghbil",
+        "center_latitude": 19.2659668,
+        "center_longitude": 72.9847705,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9663582,
+              19.1776796
+            ],
+            [
+              72.9677599,
+              19.1776796
+            ],
+            [
+              72.9677599,
+              19.1805384
+            ],
+            [
+              72.9663582,
+              19.1805384
+            ],
+            [
+              72.9663582,
+              19.1776796
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Eastern Express Highway",
+        "slug": "eastern-express-highway",
+        "center_latitude": 19.179124,
+        "center_longitude": 72.9670928,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9496845,
+              19.1696853
+            ],
+            [
+              72.9896845,
+              19.1696853
+            ],
+            [
+              72.9896845,
+              19.2096853
+            ],
+            [
+              72.9496845,
+              19.2096853
+            ],
+            [
+              72.9496845,
+              19.1696853
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Naupada",
+        "slug": "naupada",
+        "center_latitude": 19.1896853,
+        "center_longitude": 72.9696845,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9630236,
+              19.2045692
+            ],
+            [
+              72.9688267,
+              19.2045692
+            ],
+            [
+              72.9688267,
+              19.2090973
+            ],
+            [
+              72.9630236,
+              19.2090973
+            ],
+            [
+              72.9630236,
+              19.2045692
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Pokhran Road No. 2",
+        "slug": "pokhran-road-no-2",
+        "center_latitude": 19.2066597,
+        "center_longitude": 72.965802,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9718187,
+              19.2033755
+            ],
+            [
+              72.9719187,
+              19.2033755
+            ],
+            [
+              72.9719187,
+              19.2034755
+            ],
+            [
+              72.9718187,
+              19.2034755
+            ],
+            [
+              72.9718187,
+              19.2033755
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Khopat",
+        "slug": "khopat",
+        "center_latitude": 19.2034255,
+        "center_longitude": 72.9718687,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9309778,
+              19.1785175
+            ],
+            [
+              72.9709778,
+              19.1785175
+            ],
+            [
+              72.9709778,
+              19.2185175
+            ],
+            [
+              72.9309778,
+              19.2185175
+            ],
+            [
+              72.9309778,
+              19.1785175
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Wagle Industrial Estate",
+        "slug": "wagle-industrial-estate",
+        "center_latitude": 19.1985175,
+        "center_longitude": 72.9509778,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9258284,
+              19.1704471
+            ],
+            [
+              72.9658284,
+              19.1704471
+            ],
+            [
+              72.9658284,
+              19.2104471
+            ],
+            [
+              72.9258284,
+              19.2104471
+            ],
+            [
+              72.9258284,
+              19.1704471
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Shree Nagar",
+        "slug": "shree-nagar",
+        "center_latitude": 19.1904471,
+        "center_longitude": 72.9458284,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9532621,
+              19.1625941
+            ],
+            [
+              72.9932621,
+              19.1625941
+            ],
+            [
+              72.9932621,
+              19.2025941
+            ],
+            [
+              72.9532621,
+              19.2025941
+            ],
+            [
+              72.9532621,
+              19.1625941
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Kopri",
+        "slug": "kopri",
+        "center_latitude": 19.1825941,
+        "center_longitude": 72.9732621,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.0146561,
+              19.2362151
+            ],
+            [
+              73.0147561,
+              19.2362151
+            ],
+            [
+              73.0147561,
+              19.2363151
+            ],
+            [
+              73.0146561,
+              19.2363151
+            ],
+            [
+              73.0146561,
+              19.2362151
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Kasheli",
+        "slug": "kasheli",
+        "center_latitude": 19.2362651,
+        "center_longitude": 73.0147061,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.94808,
+              19.2464447
+            ],
+            [
+              72.98808,
+              19.2464447
+            ],
+            [
+              72.98808,
+              19.2864447
+            ],
+            [
+              72.94808,
+              19.2864447
+            ],
+            [
+              72.94808,
+              19.2464447
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Anand Nagar",
+        "slug": "anand-nagar",
+        "center_latitude": 19.2664447,
+        "center_longitude": 72.96808,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9535894,
+              19.1783779
+            ],
+            [
+              72.9735894,
+              19.1783779
+            ],
+            [
+              72.9735894,
+              19.1983779
+            ],
+            [
+              72.9535894,
+              19.1983779
+            ],
+            [
+              72.9535894,
+              19.1783779
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Teen Hath Naka",
+        "slug": "teen-hath-naka",
+        "center_latitude": 19.1883779,
+        "center_longitude": 72.9635894,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.0643867,
+              19.1552679
+            ],
+            [
+              73.064469,
+              19.1552021
+            ],
+            [
+              73.0648111,
+              19.1551961
+            ],
+            [
+              73.064884,
+              19.1552231
+            ],
+            [
+              73.0648713,
+              19.1552679
+            ],
+            [
+              73.0648586,
+              19.1553906
+            ],
+            [
+              73.064865,
+              19.1554834
+            ],
+            [
+              73.0649473,
+              19.1554714
+            ],
+            [
+              73.064998,
+              19.1557258
+            ],
+            [
+              73.0645292,
+              19.1557587
+            ],
+            [
+              73.0643867,
+              19.1552679
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Khidkali",
+        "slug": "khidkali",
+        "center_latitude": 19.1554774,
+        "center_longitude": 73.0646561,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9618412,
+              19.2269649
+            ],
+            [
+              73.0018412,
+              19.2269649
+            ],
+            [
+              73.0018412,
+              19.2669649
+            ],
+            [
+              72.9618412,
+              19.2669649
+            ],
+            [
+              72.9618412,
+              19.2269649
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Brahmand",
+        "slug": "brahmand",
+        "center_latitude": 19.2469649,
+        "center_longitude": 72.9818412,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9622722,
+              19.1962455
+            ],
+            [
+              72.9623722,
+              19.1962455
+            ],
+            [
+              72.9623722,
+              19.1963455
+            ],
+            [
+              72.9622722,
+              19.1963455
+            ],
+            [
+              72.9622722,
+              19.1962455
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Louis Wadi",
+        "slug": "louis-wadi",
+        "center_latitude": 19.1962955,
+        "center_longitude": 72.9623222,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9744985,
+              19.205232
+            ],
+            [
+              72.9775154,
+              19.205232
+            ],
+            [
+              72.9775154,
+              19.206813
+            ],
+            [
+              72.9744985,
+              19.206813
+            ],
+            [
+              72.9744985,
+              19.205232
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Lal Bahadur Shastri Road",
+        "slug": "lal-bahadur-shastri-road",
+        "center_latitude": 19.20633,
+        "center_longitude": 72.9761632,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.956234,
+              19.1821398
+            ],
+            [
+              72.996234,
+              19.1821398
+            ],
+            [
+              72.996234,
+              19.2221398
+            ],
+            [
+              72.956234,
+              19.2221398
+            ],
+            [
+              72.956234,
+              19.1821398
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Uthalsar",
+        "slug": "uthalsar",
+        "center_latitude": 19.2021398,
+        "center_longitude": 72.976234,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9412408,
+              19.2557727
+            ],
+            [
+              72.9812408,
+              19.2557727
+            ],
+            [
+              72.9812408,
+              19.2957727
+            ],
+            [
+              72.9412408,
+              19.2957727
+            ],
+            [
+              72.9412408,
+              19.2557727
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Owale",
+        "slug": "owale",
+        "center_latitude": 19.2757727,
+        "center_longitude": 72.9612408,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8872704,
+              19.2979041
+            ],
+            [
+              72.8876674,
+              19.2958232
+            ],
+            [
+              72.888456,
+              19.295646
+            ],
+            [
+              72.8887296,
+              19.2958384
+            ],
+            [
+              72.8891855,
+              19.2963143
+            ],
+            [
+              72.8891587,
+              19.2969827
+            ],
+            [
+              72.8879088,
+              19.2980206
+            ],
+            [
+              72.8872704,
+              19.2979041
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Ghodbandar",
+        "slug": "ghodbandar",
+        "center_latitude": 19.2966485,
+        "center_longitude": 72.888341,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.952018,
+              19.206298
+            ],
+            [
+              72.952118,
+              19.206298
+            ],
+            [
+              72.952118,
+              19.206398
+            ],
+            [
+              72.952018,
+              19.206398
+            ],
+            [
+              72.952018,
+              19.206298
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Savarkar Nagar",
+        "slug": "savarkar-nagar",
+        "center_latitude": 19.206348,
+        "center_longitude": 72.952068,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.0867811,
+              19.219019
+            ],
+            [
+              73.0868811,
+              19.219019
+            ],
+            [
+              73.0868811,
+              19.219119
+            ],
+            [
+              73.0867811,
+              19.219119
+            ],
+            [
+              73.0867811,
+              19.219019
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Vishnu Nagar",
+        "slug": "vishnu-nagar",
+        "center_latitude": 19.219069,
+        "center_longitude": 73.0868311,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.046067,
+              19.1427727
+            ],
+            [
+              73.046167,
+              19.1427727
+            ],
+            [
+              73.046167,
+              19.1428727
+            ],
+            [
+              73.046067,
+              19.1428727
+            ],
+            [
+              73.046067,
+              19.1427727
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Daighar Gaon",
+        "slug": "daighar-gaon",
+        "center_latitude": 19.1428227,
+        "center_longitude": 73.046117,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.0440091,
+              19.1629239
+            ],
+            [
+              73.0460882,
+              19.1629239
+            ],
+            [
+              73.0460882,
+              19.1677655
+            ],
+            [
+              73.0440091,
+              19.1677655
+            ],
+            [
+              73.0440091,
+              19.1629239
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Khardipada",
+        "slug": "khardipada",
+        "center_latitude": 19.1655423,
+        "center_longitude": 73.0452307,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9806383,
+              19.2393715
+            ],
+            [
+              72.9807383,
+              19.2393715
+            ],
+            [
+              72.9807383,
+              19.2394715
+            ],
+            [
+              72.9806383,
+              19.2394715
+            ],
+            [
+              72.9806383,
+              19.2393715
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Azad Nagar",
+        "slug": "azad-nagar",
+        "center_latitude": 19.2394215,
+        "center_longitude": 72.9806883,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9579552,
+              19.1725842
+            ],
+            [
+              72.9979552,
+              19.1725842
+            ],
+            [
+              72.9979552,
+              19.2125842
+            ],
+            [
+              72.9579552,
+              19.2125842
+            ],
+            [
+              72.9579552,
+              19.1725842
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Jambli Naka",
+        "slug": "jambli-naka",
+        "center_latitude": 19.1925842,
+        "center_longitude": 72.9779552,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.0687932,
+              19.1793988
+            ],
+            [
+              73.0725497,
+              19.1793988
+            ],
+            [
+              73.0725497,
+              19.1855012
+            ],
+            [
+              73.0687932,
+              19.1855012
+            ],
+            [
+              73.0687932,
+              19.1793988
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Usarghar Gaon",
+        "slug": "usarghar-gaon",
+        "center_latitude": 19.1824094,
+        "center_longitude": 73.0708078,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.0309363,
+              19.1627009
+            ],
+            [
+              73.0315269,
+              19.1627009
+            ],
+            [
+              73.0315269,
+              19.1653339
+            ],
+            [
+              73.0309363,
+              19.1653339
+            ],
+            [
+              73.0309363,
+              19.1627009
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Talav Pali",
+        "slug": "talav-pali",
+        "center_latitude": 19.1639962,
+        "center_longitude": 73.0311194,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.048567,
+              19.1465398
+            ],
+            [
+              73.068567,
+              19.1465398
+            ],
+            [
+              73.068567,
+              19.1665398
+            ],
+            [
+              73.048567,
+              19.1665398
+            ],
+            [
+              73.048567,
+              19.1465398
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Padle Gaon",
+        "slug": "padle-gaon",
+        "center_latitude": 19.1565398,
+        "center_longitude": 73.058567,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9782804,
+              19.2168427
+            ],
+            [
+              72.9799591,
+              19.2168427
+            ],
+            [
+              72.9799591,
+              19.2176771
+            ],
+            [
+              72.9782804,
+              19.2176771
+            ],
+            [
+              72.9782804,
+              19.2168427
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Kapur Bawdi",
+        "slug": "kapur-bawdi",
+        "center_latitude": 19.2174756,
+        "center_longitude": 72.9790027,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9651194,
+              19.2073122
+            ],
+            [
+              72.9652194,
+              19.2073122
+            ],
+            [
+              72.9652194,
+              19.2074122
+            ],
+            [
+              72.9651194,
+              19.2074122
+            ],
+            [
+              72.9651194,
+              19.2073122
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "JK Gram",
+        "slug": "jk-gram",
+        "center_latitude": 19.2073622,
+        "center_longitude": 72.9651694,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.94808,
+              19.2464447
+            ],
+            [
+              72.98808,
+              19.2464447
+            ],
+            [
+              72.98808,
+              19.2864447
+            ],
+            [
+              72.94808,
+              19.2864447
+            ],
+            [
+              72.94808,
+              19.2464447
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Anu Nagar",
+        "slug": "anu-nagar",
+        "center_latitude": 19.2664447,
+        "center_longitude": 72.96808,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9496945,
+              19.2612529
+            ],
+            [
+              72.9896945,
+              19.2612529
+            ],
+            [
+              72.9896945,
+              19.3012529
+            ],
+            [
+              72.9496945,
+              19.3012529
+            ],
+            [
+              72.9496945,
+              19.2612529
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Mogarpada",
+        "slug": "mogarpada",
+        "center_latitude": 19.2812529,
+        "center_longitude": 72.9696945,
+        "boundary_quality": "approximate",
+        "source": "OpenStreetMap/Nominatim"
+      }
+    }
+  ],
+  "unresolved": [
+    "panch-pakhadi",
+    "bhayanderpada",
+    "desai-village"
+  ]
+}

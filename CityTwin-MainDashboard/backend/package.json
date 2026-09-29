@@ -1,0 +1,23 @@
+{
+  "name": "citytwin-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "seed:thane-zones": "node src/scripts/generateThaneZones.js 10 --retry-unresolved",
+    "import:thane-zones": "node src/scripts/importThaneZonesToSupabase.js",
+    "bootstrap:admin": "node src/scripts/bootstrapAdmin.js",
+    "promote:admin": "node src/scripts/promoteAdmin.js"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.4",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0"
+  }
+}
