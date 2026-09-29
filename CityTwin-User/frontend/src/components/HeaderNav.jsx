@@ -9,6 +9,8 @@ const HeaderNav = ({
   onOpenRegionMap, 
   onOpenWeather, 
   onOpenProfile,
+  onOpenRecentIssues,
+  issuesCount = 0,
   weatherData,
   isMobile
 }) => {
@@ -143,6 +145,28 @@ const HeaderNav = ({
 
       {/* Right: Actions */}
       <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+        {/* Reports Hub Button */}
+        <button
+          onClick={onOpenRecentIssues}
+          style={{
+            background: '#EAF7F8',
+            border: '1px solid #79C9C0',
+            borderRadius: '12px',
+            padding: isMobile ? '6px 10px' : '7px 12px',
+            fontSize: isMobile ? '11px' : '12px',
+            fontWeight: 700,
+            color: '#0D9488',
+            cursor: 'pointer',
+            display: 'flex',
+            alignItems: 'center',
+            gap: '5px'
+          }}
+          title="View All Citizen Reports"
+        >
+          <span>📢</span>
+          <span>{isMobile ? `Reports (${issuesCount})` : `All Reports (${issuesCount})`}</span>
+        </button>
+
         {/* Report button — desktop only (mobile has FAB) */}
         {!isMobile && (
           <button

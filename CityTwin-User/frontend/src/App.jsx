@@ -151,20 +151,39 @@ function App() {
   const handleCreateIssue = async (issueData) => {
     const res = await apiClient.createIssue({
       ...issueData,
+      user_id: user?.id || null,
       reporterName: user ? user.name : 'Anonymous Citizen'
     });
-    if (res.success) setIssues([res.data, ...issues]);
+    if (res.success) {
+      // Immediately add to state for instant UI feedback
+      setIssues(prev => [res.data, ...prev]);
+      // Also refresh from server after a short delay to sync any AI verification updates
+      setTimeout(async () => {
+        try {
+          const fresh = await apiClient.getIssues();
+          if (fresh.success) setIssues(fresh.data);
+        } catch {}
+      }, 3000);
+    }
   };
 
   const handleCreateAccidentReport = async (accidentData) => {
     const res = await apiClient.createIssue({
       ...accidentData,
+      user_id: user?.id || null,
       reporterName: user ? user.name : 'Emergency Alert'
     });
     if (res.success) {
-      setIssues([res.data, ...issues]);
+      setIssues(prev => [res.data, ...prev]);
       const hospRes = await apiClient.getEmergencyServices('Hospital');
       if (hospRes.success) setEmergencyServices(hospRes.data);
+      // Refresh reports after verification
+      setTimeout(async () => {
+        try {
+          const fresh = await apiClient.getIssues();
+          if (fresh.success) setIssues(fresh.data);
+        } catch {}
+      }, 3000);
     }
   };
 
@@ -411,8 +430,11 @@ function App() {
         <RecentIssuesModal
           onClose={() => setIsRecentIssuesOpen(false)}
           issues={issues}
+          user={user}
+          myReportIds={issues.filter(i => user && (i.user_id === user.id || i.userId === user.id)).map(i => i.id || i._id)}
           onSelectIssueOnMap={(iss) => { focusIssueOnMap(iss); setIsRecentIssuesOpen(false); }}
           onLikeIssue={handleLikeIssue}
+          onOpenReport={() => requireAuth(() => setIsReportModalOpen(true))}
         />
       )}
       {isRegionMapOpen && (
